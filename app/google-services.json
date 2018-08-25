@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "261335727086",
+    "firebase_url": "https://wisdomgabriel-4d2a7.firebaseio.com",
+    "project_id": "wisdomgabriel-4d2a7",
+    "storage_bucket": "wisdomgabriel-4d2a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261335727086:android:f5e90aabb3051cc4",
+        "android_client_info": {
+          "package_name": "com.wisdomgabriel.www.customerproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261335727086-f7qck505llruet3948ahriomva018h51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisdomgabriel.www.customerproj",
+            "certificate_hash": "68db23baee79472c630a5eb9e2ebadf7365efac5"
+          }
+        },
+        {
+          "client_id": "261335727086-8pvekdl9h3vlch17b7ndl0is9td3k7op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkM0srOsMGdIiAikK3e5Bqy_2RKM77sI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261335727086-8pvekdl9h3vlch17b7ndl0is9td3k7op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261335727086:android:dc682805172cb5af",
+        "android_client_info": {
+          "package_name": "com.wisdomgabriel.www.waiters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261335727086-6vgvl7uhfa2qb2vfsisbdjj7f10q6s1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisdomgabriel.www.waiters",
+            "certificate_hash": "68db23baee79472c630a5eb9e2ebadf7365efac5"
+          }
+        },
+        {
+          "client_id": "261335727086-8pvekdl9h3vlch17b7ndl0is9td3k7op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkM0srOsMGdIiAikK3e5Bqy_2RKM77sI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261335727086-8pvekdl9h3vlch17b7ndl0is9td3k7op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
